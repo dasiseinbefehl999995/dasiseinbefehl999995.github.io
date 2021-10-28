@@ -1,0 +1,48 @@
+title {
+	color: #FFFFFF;
+}
+body {
+	background-image: url("background.png");
+	background-color: #000000;
+	text-align: center;
+}
+#main {
+	width: 1000px;
+	height: 2000px;
+	background-image: transparent;
+	margin: 15px auto;
+	border: solid 2px #0E1670;
+	-webkit-box-shadow: 5px 5px 15px 5px #FF8080, -9px 5px 15px 5px #FFE488, -7px -5px 15px 5px #8CFF85, 12px -5px 15px 5px #80C7FF, 12px 10px 15px 7px #E488FF, -10px 10px 15px 7px #FF616B, -10px -7px 27px 1px #8E5CFF, 5px 5px 15px 5px rgba(0,0,0,0); 
+	box-shadow: 5px 5px 15px 5px #FF8080, -9px 5px 15px 5px #FFE488, -7px -5px 15px 5px #8CFF85, 12px -5px 15px 5px #80C7FF, 12px 10px 15px 7px #E488FF, -10px 10px 15px 7px #FF616B, -10px -7px 27px 1px #8E5CFF, 5px 5px 15px 5px rgba(0,0,0,0);
+}
+h1 {
+	text-align: center;
+	font-family: "Courier New";
+	color: #FFFFFF;
+	text-shadow: 0 0 5px #FFF, 0 0 10px #FFF, 0 0 15px #FFF, 0 0 20px #49ff18, 0 0 30px #49FF18, 0 0 40px #49FF18, 0 0 55px #49FF18, 0 0 75px #49ff18, 2px 2px 5px rgba(206,89,55,0);
+}
+hr {
+	height: 2px;
+	color: #0E1670;
+}
+h5 {
+	font-family:"Calibri";
+	color: #FFFFFF;
+}
+h3 {
+	font-family:"Calibri";
+	color: #FFFFFF;
+}
+h4 {
+	font-family:"Calibri";
+	color: #FFFFFF;
+}
+h2 {
+	color: #FFFFFF;
+}
+h6 {
+	color: #FFFFFF;
+}
+p {
+	color: #FFFFFF;
+}
